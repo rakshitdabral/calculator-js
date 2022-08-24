@@ -5,5 +5,7 @@
 #What I learned
 
 1)Substring
+
 2)eVal
+
 3)forEach
