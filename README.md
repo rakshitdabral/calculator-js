@@ -2,7 +2,7 @@
  
  Made using js, html and css 
 
-#What I learned
+# What I learned
 
 1)Substring
 
